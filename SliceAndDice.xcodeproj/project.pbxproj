@@ -14,6 +14,17 @@
 		A41C24F122736792008D7C83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41C24EF22736792008D7C83 /* Main.storyboard */; };
 		A41C24F322736793008D7C83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41C24F222736793008D7C83 /* Assets.xcassets */; };
 		A41C24F622736793008D7C83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41C24F422736793008D7C83 /* LaunchScreen.storyboard */; };
+		A41C25362275572A008D7C83 /* explosion.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C252B2275572A008D7C83 /* explosion.caf */; };
+		A41C25372275572A008D7C83 /* sliceBombFuse.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C252C2275572A008D7C83 /* sliceBombFuse.caf */; };
+		A41C25382275572A008D7C83 /* launch.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C252D2275572A008D7C83 /* launch.caf */; };
+		A41C25392275572A008D7C83 /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C252E2275572A008D7C83 /* swoosh1.caf */; };
+		A41C253A2275572A008D7C83 /* swoosh2.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C252F2275572A008D7C83 /* swoosh2.caf */; };
+		A41C253B2275572A008D7C83 /* sliceFuse.sks in Resources */ = {isa = PBXBuildFile; fileRef = A41C25302275572A008D7C83 /* sliceFuse.sks */; };
+		A41C253C2275572A008D7C83 /* swoosh3.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C25312275572A008D7C83 /* swoosh3.caf */; };
+		A41C253D2275572A008D7C83 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C25322275572A008D7C83 /* whack.caf */; };
+		A41C253E2275572A008D7C83 /* wrong.caf in Resources */ = {isa = PBXBuildFile; fileRef = A41C25332275572A008D7C83 /* wrong.caf */; };
+		A41C253F2275572A008D7C83 /* sliceHitEnemy.sks in Resources */ = {isa = PBXBuildFile; fileRef = A41C25342275572A008D7C83 /* sliceHitEnemy.sks */; };
+		A41C25402275572A008D7C83 /* sliceHitBomb.sks in Resources */ = {isa = PBXBuildFile; fileRef = A41C25352275572A008D7C83 /* sliceHitBomb.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,17 @@
 		A41C24F222736793008D7C83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A41C24F522736793008D7C83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A41C24F722736793008D7C83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A41C252B2275572A008D7C83 /* explosion.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = explosion.caf; sourceTree = "<group>"; };
+		A41C252C2275572A008D7C83 /* sliceBombFuse.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sliceBombFuse.caf; sourceTree = "<group>"; };
+		A41C252D2275572A008D7C83 /* launch.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = launch.caf; sourceTree = "<group>"; };
+		A41C252E2275572A008D7C83 /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
+		A41C252F2275572A008D7C83 /* swoosh2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh2.caf; sourceTree = "<group>"; };
+		A41C25302275572A008D7C83 /* sliceFuse.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceFuse.sks; sourceTree = "<group>"; };
+		A41C25312275572A008D7C83 /* swoosh3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh3.caf; sourceTree = "<group>"; };
+		A41C25322275572A008D7C83 /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
+		A41C25332275572A008D7C83 /* wrong.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.caf; sourceTree = "<group>"; };
+		A41C25342275572A008D7C83 /* sliceHitEnemy.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitEnemy.sks; sourceTree = "<group>"; };
+		A41C25352275572A008D7C83 /* sliceHitBomb.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitBomb.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +88,17 @@
 				A41C24F222736793008D7C83 /* Assets.xcassets */,
 				A41C24F422736793008D7C83 /* LaunchScreen.storyboard */,
 				A41C24F722736793008D7C83 /* Info.plist */,
+				A41C252B2275572A008D7C83 /* explosion.caf */,
+				A41C252D2275572A008D7C83 /* launch.caf */,
+				A41C252C2275572A008D7C83 /* sliceBombFuse.caf */,
+				A41C25302275572A008D7C83 /* sliceFuse.sks */,
+				A41C25352275572A008D7C83 /* sliceHitBomb.sks */,
+				A41C25342275572A008D7C83 /* sliceHitEnemy.sks */,
+				A41C252E2275572A008D7C83 /* swoosh1.caf */,
+				A41C252F2275572A008D7C83 /* swoosh2.caf */,
+				A41C25312275572A008D7C83 /* swoosh3.caf */,
+				A41C25322275572A008D7C83 /* whack.caf */,
+				A41C25332275572A008D7C83 /* wrong.caf */,
 			);
 			path = SliceAndDice;
 			sourceTree = "<group>";
@@ -128,10 +161,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A41C253C2275572A008D7C83 /* swoosh3.caf in Resources */,
+				A41C253F2275572A008D7C83 /* sliceHitEnemy.sks in Resources */,
+				A41C25372275572A008D7C83 /* sliceBombFuse.caf in Resources */,
 				A41C24F122736792008D7C83 /* Main.storyboard in Resources */,
 				A41C24E822736792008D7C83 /* GameScene.sks in Resources */,
+				A41C25382275572A008D7C83 /* launch.caf in Resources */,
+				A41C25362275572A008D7C83 /* explosion.caf in Resources */,
+				A41C253A2275572A008D7C83 /* swoosh2.caf in Resources */,
 				A41C24F322736793008D7C83 /* Assets.xcassets in Resources */,
+				A41C25402275572A008D7C83 /* sliceHitBomb.sks in Resources */,
+				A41C253B2275572A008D7C83 /* sliceFuse.sks in Resources */,
 				A41C24F622736793008D7C83 /* LaunchScreen.storyboard in Resources */,
+				A41C25392275572A008D7C83 /* swoosh1.caf in Resources */,
+				A41C253D2275572A008D7C83 /* whack.caf in Resources */,
+				A41C253E2275572A008D7C83 /* wrong.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
